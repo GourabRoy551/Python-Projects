@@ -1,0 +1,24 @@
+Data = input
+	Create that data
+		random one
+		customize - input rows and col
+		file - input file name
+
+	failure
+		Work on error
+
+Input for category of plot
+		work on error
+
+Based on cat
+	full data
+		6 diff plots-input
+		create 6 plots
+	columns
+		how many
+			1 7 plots. Error for bubble and
+						surface plt
+
+			2 7 plots - Input list
+					
+			3 7 plots - Input list
